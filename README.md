@@ -2,4 +2,6 @@
 
 TensorFlow.js Transfer Learning Image Classifier
 
-Link - https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html#0
+Built a custom image classifier that can be trained on the fly in the browser using TensorFlow.js.
+
+Utilized transfer learning to create an accurate model with minimal training data, using a pre-trained model for image classification called MobileNet.
